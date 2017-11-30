@@ -8,5 +8,5 @@ This is my 360 image
 ###CameraEffects
 
 
-![picture_title](Merry Christmas Graphics.png?raw=true "Optional Title")
+![picture_title](Merry Christmas Graphic.png?raw=true "Optional Title")
 
